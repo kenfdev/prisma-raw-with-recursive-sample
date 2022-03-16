@@ -19,6 +19,7 @@
     "typescript": "^4.6.2"
   },
   "dependencies": {
-    "@prisma/client": "^3.11.0"
+    "@prisma/client": "^3.11.0",
+    "oo-ascii-tree": "^1.55.0"
   }
 }
